@@ -1,0 +1,1 @@
+ /Users/Murewa/StudioProjects/i_am_rich/.dart_tool/flutter_build/c5fb8d0f2b43a499485648f547ae8d9e/native_assets.yaml: 
